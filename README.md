@@ -54,3 +54,13 @@ O frontend é o lado do web development que lida com o navegador do usuário. Es
 de frontend o HTML, CSS e Javascript, que juntos são os responsáveis pelo desenvolvimento das
 modernas aplicações web, que oferecem aos usuários recursos de interação avançados e que não seriam
 possíveis sem o uso de linguagens que fossem executadas no cliente.
+
+#### Javascript
+> Learning JavaScript used to mean you weren't a serious software developer. Today, not
+> learning Javascript means the same thing.
+
+> Tim O'Reilly
+
+Não há muita escolha quanto à linguagem de programação a ser utilizada no frontend. O Javascript é
+a *lingua franca* da web, utilizada e compreendida em todas as plataformas. Ele é responsável por
+toda a programação executada no navegador, sendo essencial na criação de aplicações web.
