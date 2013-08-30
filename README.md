@@ -35,3 +35,15 @@ processar as requisições do usuário. É o coração da sua idéia.
 Python é uma das principais linguagens utilizadas para o desenvolvimento no backend. Focada na
 facilidade de escrita e leitura do código, o Python é uma linguagem expressiva, dinâmica e
 de fácil aprendizado.
+
+
+#### Django
+> At its best, Web development is an exciting, creative act; at its worst, it can be a
+> repetitive, frustrating nuisance. Django lets you focus on the fun stuff – the crux of your
+> Web application – while easing the pain of the repetitive bits.
+
+> *The Django Book*
+
+Django é o principal framework para desevolvimento web em Python. Foi criada com a
+produtividade em mente, permitindo que os projetos sejam desenvolvidos rapidamente e sem muito
+esforço.
