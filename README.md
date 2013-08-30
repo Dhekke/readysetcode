@@ -47,3 +47,10 @@ de fácil aprendizado.
 Django é o principal framework para desevolvimento web em Python. Foi criada com a
 produtividade em mente, permitindo que os projetos sejam desenvolvidos rapidamente e sem muito
 esforço.
+
+
+### Frontend
+O frontend é o lado do web development que lida com o navegador do usuário. Estão dentro da esfera
+de frontend o HTML, CSS e Javascript, que juntos são os responsáveis pelo desenvolvimento das
+modernas aplicações web, que oferecem aos usuários recursos de interação avançados e que não seriam
+possíveis sem o uso de linguagens que fossem executadas no cliente.
