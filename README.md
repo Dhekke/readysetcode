@@ -81,3 +81,17 @@ código.
 
 Ao atacar os maiores problemas existentes em projetos que envolvam Javascript, o JQuery se tornou,
 talvez, a mais notória de todas as ferramentas, frontend ou backend, utilizadas na web.
+
+#### Backbone.js
+> Backbone.js aims to provide the common foundation that data-rich web applications with ambitious
+> interfaces require
+
+> backbonejs.org
+
+O aumento de complexidade no frontend trouxe a necessidade de ferramentas mais adequadas à criação
+de verdadeiras *aplicações* javascript, e com isso o nascimento de frameworks como o Backbone.js.
+
+O Backbone.js traz ao frontend o conhecido modelo MVC (Model, View, Controller), comum em programas
+desktop, buscando simplificar a integração da aplicação frontend com sua correspondente no backend.
+Além disso, o Backbone.js implementa uma arquitetura movida a eventos, permitindo que diferentes
+partes do programa possam interagir sem o aumento de complexidade no código.
