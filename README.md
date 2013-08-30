@@ -64,3 +64,20 @@ possíveis sem o uso de linguagens que fossem executadas no cliente.
 Não há muita escolha quanto à linguagem de programação a ser utilizada no frontend. O Javascript é
 a *lingua franca* da web, utilizada e compreendida em todas as plataformas. Ele é responsável por
 toda a programação executada no navegador, sendo essencial na criação de aplicações web.
+
+#### JQuery
+> The write less, do more, Javascript library
+
+> jquery.com
+
+O poder do Javascript para manipulação de tudo que ocorre no browser tem como efeito colateral o
+excesso de complexidade, inconsistência e a incompatibilidade de certas funções através do leque de
+versões de navegadores existentes.
+
+O JQuery é a maior e mais utilizada biblioteca em JS, que tem como objetivo facilitar o
+desenvolvimento através do encapsulamento e normalização de tarefas usuais, gerenciamento entre
+as diferentes versões de Javascript aceitas por cada browser e principalmente pela simplificação do
+código.
+
+Ao atacar os maiores problemas existentes em projetos que envolvam Javascript, o JQuery se tornou,
+talvez, a mais notória de todas as ferramentas, frontend ou backend, utilizadas na web.
