@@ -14,3 +14,13 @@ deveria ser gasto construindo e não escolhendo ferramentas...
 
 Separamos um pequeno número de ferramentas que podem te ajudar, junto de uma pequena lista de
 recursos onde você pode estudar e aprender.
+
+### Backend
+> On the back end, software programming tools and internet-based services make it easy to
+> launch new global software-powered start-ups in many industries - without the need to invest
+> in new infrastructure and train new employees.
+
+> *Marc Andreessen*
+
+Na pilha aplicações web, o backend é a parte executada no servidor, responsável por receber e
+processar as requisições do usuário. É o coração da sua idéia.
