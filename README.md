@@ -24,3 +24,14 @@ recursos onde você pode estudar e aprender.
 
 Na pilha aplicações web, o backend é a parte executada no servidor, responsável por receber e
 processar as requisições do usuário. É o coração da sua idéia.
+
+
+#### Python
+> It is time-consuming to produce high-quality software. However, that should not alone be a
+> reason to give up the high standards of Python programming
+
+> *Martin von Loweis*
+
+Python é uma das principais linguagens utilizadas para o desenvolvimento no backend. Focada na
+facilidade de escrita e leitura do código, o Python é uma linguagem expressiva, dinâmica e
+de fácil aprendizado.
